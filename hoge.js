@@ -1,0 +1,2 @@
+docment.write("Hello,Javascript!!");
+
