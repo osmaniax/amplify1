@@ -1,2 +1,2 @@
-Document.write("Hello,Javascript!!");
+document.write("Hello,Javascript!!");
 
