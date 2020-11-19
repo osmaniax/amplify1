@@ -1,2 +1,2 @@
 document.write("Hello,Javascript!!");
-document.writeln("Hello,JavaScript2!!"); 
+document.writeln("Hello,JavaScript20201119!!"); 
