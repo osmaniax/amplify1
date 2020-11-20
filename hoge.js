@@ -1,2 +1,3 @@
 document.write("Hello,Javascript!!");
-document.writeln("Hello,JavaScript20201119!!!"); 
+document.write("<br>");
+document.writeln("Hello,JavaScript20201119!!!");
