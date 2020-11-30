@@ -5,3 +5,5 @@ document.write("<br>");
 document.writeln("Hello,JavaScript20201121 From VSCode!!!");
 document.write("<br>");
 document.writeln("Hello,JavaScript20201121 From ATOM!!!");
+document.write("<br>");
+document.writeln("Hello,JavaScript20201121 From ATOM!!!");
