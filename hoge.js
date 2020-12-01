@@ -7,3 +7,5 @@ document.write("<br>");
 document.writeln("Hello,JavaScript20201121 From ATOM!!!");
 document.write("<br>");
 document.writeln("Hello,JavaScript20201201 From ATOM!!!");
+document.write("<br>");
+document.writeln("Hello,JavaScript20201201 From Sparky iPad!!!");
