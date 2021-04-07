@@ -11,3 +11,5 @@ document.write("<br>");
 document.writeln("Hello,JavaScript20201201 From Sparky iPad!!!");
 document.write("<br>");
 document.writeln("Hello,JavaScript20210408 From VSCode!!!");
+document.write("<br>");
+document.writeln("Hello,JavaScript20210408 From CLI!!!");
