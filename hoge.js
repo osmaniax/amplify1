@@ -13,3 +13,5 @@ document.write("<br>");
 document.writeln("Hello,JavaScript20210408 From VSCode!!!");
 document.write("<br>");
 document.writeln("Hello,JavaScript20210408 From CLI!!!");
+document.write("<br>");
+document.writeln("Hello,JavaScript20210408 From VSCode!!!");
